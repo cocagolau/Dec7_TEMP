@@ -15,7 +15,7 @@ public class Client {
 			System.out.println("로그아웃 성공");
 		}
 		else {
-			System.out.println("로그아웃 성공");
+			System.out.println("로그아웃 실패");
 		}
 	}
 	

@@ -28,6 +28,7 @@ public class Client {
 		System.out.println("--------");
 		System.out.println();
 		
+		System.out.println("2nd");
 		client.exec(new User("dec7"));
 	}
 
